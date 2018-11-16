@@ -3,4 +3,4 @@
 Modelling Adult Income Dataset using Gradient Boosting Classifier - python 3
 
 
-solution.py contains is module that containes a classification pipeline - must be kept in the same directory as Model.py
+solution.py is module that containes a classification pipeline - must be kept in the same directory as Model.py
